@@ -9,5 +9,7 @@ This setup is highly raw and not accurante , which might be the reason that this
 The trick is simple we add a simple screw system in the latch tightner. Such that, the tightening and loosening of the screw changes the friction between the latch and the part that holds the latch.
 This will help us to calibrate the joints to the highest precision.
 ## FURTHER EXPLANATION WITH DIAGRAM
+### SIDE
 ![IMG_20220329_185647](https://user-images.githubusercontent.com/88607869/160638725-0c64b075-3d09-4799-88ba-3d5aa6ebabc5.jpg)
+### TOP
 ![IMG_20220329_185705](https://user-images.githubusercontent.com/88607869/160638796-cc00ebdf-3183-4948-8494-226a0494a999.jpg)

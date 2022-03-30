@@ -25,4 +25,11 @@ The main axil moves bi directionaly as the middle of latch axil as the pivot poi
 <br> The latch tigthner is a bit of an elastic system where we a screw is inserted and when the screw is tigtened the circufrance of the tightner increases and it bukdges into the walls of the latch holder. This will increase the friction between the two and brings changes into the movemnt of the main axil.
 ![IMG_20220330_201910](https://user-images.githubusercontent.com/88607869/160865959-a1ed95ab-5e30-4ced-b1c6-9b47f65d644a.jpg)
 Lets say we have to move the bone in the below direction (note -ve values shows backward direction)
-<br><b>  4  -2  6  -6</b>
+<br><b>  4   -2   6  -6</b>
+<br>Whose curresponding analogue signal will have the below maximum voltages.
+<br><b>  2   -1   3  -3</b>
+<br>But in our system we pass this signal through an amplifier which amplify the previous signal into this new signal.
+<br><b>  4   -2   6  -6</b>
+<br>which we will give as an input to the electro magnet and  is supposed to give out the following rotations.
+<br><b>  8   -4   12  -12</b>
+<br>But due to the internal friction that already exists in the system it will give out a rotation of 

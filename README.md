@@ -20,3 +20,9 @@ This will help us to calibrate the joints to the highest precision.
 <br> One of the sides of and the other is connected a magnet which is suspended in the middle of an electromagnet in the second bone
 <br> The latch axil is connected to the middle of the main axil.
 <br> When electricty is passed through the electromagnet in the second bone a magnetic field is produced. Which pushs and pulls the magnet and the main axil attached to it. This results in the movement of the first bone with the latch axil as the pivot point.
+![IMG_20220330_201936](https://user-images.githubusercontent.com/88607869/160865939-f14d9671-23f3-4847-a936-8f9dc4d42a09.jpg)
+The main axil moves bi directionaly as the middle of latch axil as the pivot point.This will in turn move the first bone in refarance to the second bone. But this setup is really raw and not precise. Thats where the use of resizable latch comes in.
+<br> The latch tigthner is a bit of an elastic system where we a screw is inserted and when the screw is tigtened the circufrance of the tightner increases and it bukdges into the walls of the latch holder. This will increase the friction between the two and brings changes into the movemnt of the main axil.
+![IMG_20220330_201910](https://user-images.githubusercontent.com/88607869/160865959-a1ed95ab-5e30-4ced-b1c6-9b47f65d644a.jpg)
+Lets say we have to move the bone in the below direction (note -ve values shows backward direction)
+<br><b>  4  -2  6  -6</b>

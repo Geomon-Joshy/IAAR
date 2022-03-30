@@ -11,7 +11,6 @@ This will help us to calibrate the joints to the highest precision.
 ## FURTHER EXPLANATION WITH DIAGRAM
 ### TOP
 ![IMG_20220329_185705](https://user-images.githubusercontent.com/88607869/160638796-cc00ebdf-3183-4948-8494-226a0494a999.jpg)
-<img src="https://user-images.githubusercontent.com/88607869/160638796-cc00ebdf-3183-4948-8494-226a0494a999.jpg")>
 ### SIDE
 ![IMG_20220329_185647](https://user-images.githubusercontent.com/88607869/160638725-0c64b075-3d09-4799-88ba-3d5aa6ebabc5.jpg)
 <br> The two big squares are pieces which represents the two bones in the muscles joints of human body.
@@ -33,7 +32,7 @@ Lets say we have to move the bone in the below direction (note -ve values shows 
 <br>which we will give as an input to the electro magnet and  is supposed to give out the following rotations.
 <br><b>  8    -4    12   -12</b>
 <br>But due to the internal friction that already exists in the system it will give out a rotation of 
-<br><b>  8x   -4x   12x  -12x</b> Where <b>x</b> is an number between one and one by two.
+<br><b>  8x   -4x   12x  -12x</b> Where <b> x </b> is an number between one and one by two.
 <br><b>So on the thought that the movements of the bones will give out rotations which is a real value amplification of required signal , we can go ahead with building rest of the parts. That is if you are building a finger , we build this setup and we do the rest of the artsy stuff. That is the stuff which will make this piece of machine look like an actuall finger. We do this in such a way that we leave a small gap to acess the screw.
 <br>After doing all of these setup , we check the system once again. That is we give the input signal and see the retation and see how much it warries from the required rotations.
 <br>Soon after this we adjust the screw so that the acual rotations match the required rotation and hence calibrating the system.

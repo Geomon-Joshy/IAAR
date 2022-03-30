@@ -33,9 +33,19 @@ Lets say we have to move the bone in the below direction (note -ve values shows 
 <br><b>  8    -4    12   -12</b>
 <br>But due to the internal friction that already exists in the system it will give out a rotation of 
 <br><b>  8x   -4x   12x  -12x</b> Where <b> x </b> is an number between one and one by two.
-<br><b>So on the thought that the movements of the bones will give out rotations which is a real value amplification of required signal , we can go ahead with building rest of the parts. That is if you are building a finger , we build this setup and we do the rest of the artsy stuff. That is the stuff which will make this piece of machine look like an actuall finger. We do this in such a way that we leave a small gap to acess the screw.
+<br>So on the thought that the movements of the bones will give out rotations which is a real value amplification of required signal , we can go ahead with building rest of the parts. That is if you are building a finger , we build this setup and we do the rest of the artsy stuff. That is the stuff which will make this piece of machine look like an actuall finger. We do this in such a way that we leave a small gap to acess the screw.
 <br>After doing all of these setup , we check the system once again. That is we give the input signal and see the retation and see how much it warries from the required rotations.
 <br>Soon after this we adjust the screw so that the acual rotations match the required rotation and hence calibrating the system.
 <br>The system once calibrated donot need to be calibrated again.
 ## ADVANTAGES
-
+(while compared to current systems)
+<li>
+  <ol>
+    More precise.
+    Better agility.
+    Easy calibration even after prosthetics and props are added.
+    Long lasting.
+    More ecnomical
+  </ol>
+<li>
+    

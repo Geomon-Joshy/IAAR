@@ -40,12 +40,10 @@ Lets say we have to move the bone in the below direction (note -ve values shows 
 ## ADVANTAGES
 (while compared to current systems)
 <li>
-  <ol>
-    More precise.
-    Better agility.
-    Easy calibration even after prosthetics and props are added.
-    Long lasting.
-    More ecnomical
-  </ol>
+<ol>More precise.</ol>
+<ol>Better agility.</ol>
+<ol>Easy calibration even after prosthetics and props are added.</ol>
+<ol>Long lasting.</ol>
+<ol>More ecnomical</ol>
 <li>
     

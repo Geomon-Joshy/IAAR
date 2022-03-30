@@ -17,3 +17,5 @@ This will help us to calibrate the joints to the highest precision.
 <br> The goal here is to create a mechanisum to move the first bone in referance to the second bone.
 <br> To do this we use a latch system and an axil attached to a magnet. 
 <br> One of the sides of and the other is connected a magnet which is suspended in the middle of an electromagnet in the second bone
+<br> The latch axil is connected to the middle of the main axil.
+<br> When electricty is passed through the electromagnet in the second bone a magnetic field is produced. Which pushs and pulls the magnet and the main axil attached to it. This results in the movement of the first bone with the latch axil as the pivot point.

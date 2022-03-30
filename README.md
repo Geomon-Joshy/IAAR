@@ -1,4 +1,4 @@
-# IA
+# IAAR
 Basic design of a new class of highly agile(target area:HUMANOID) robots that I plan to build
 ## AIM
 To design  anlogue based robots which provides huge advantage over conventional robots in terms of agility and easeness of calibration
@@ -25,11 +25,18 @@ The main axil moves bi directionaly as the middle of latch axil as the pivot poi
 <br> The latch tigthner is a bit of an elastic system where we a screw is inserted and when the screw is tigtened the circufrance of the tightner increases and it bukdges into the walls of the latch holder. This will increase the friction between the two and brings changes into the movemnt of the main axil.
 ![IMG_20220330_201910](https://user-images.githubusercontent.com/88607869/160865959-a1ed95ab-5e30-4ced-b1c6-9b47f65d644a.jpg)
 Lets say we have to move the bone in the below direction (note -ve values shows backward direction)
-<br><b>  4   -2   6  -6</b>
+<br><b>  4    -2    6    -6</b>
 <br>Whose curresponding analogue signal will have the below maximum voltages.
-<br><b>  2   -1   3  -3</b>
+<br><b>  2    -1    3    -3</b>
 <br>But in our system we pass this signal through an amplifier which amplify the previous signal into this new signal.
-<br><b>  4   -2   6  -6</b>
+<br><b>  4    -2    6    -6</b>
 <br>which we will give as an input to the electro magnet and  is supposed to give out the following rotations.
-<br><b>  8   -4   12  -12</b>
+<br><b>  8    -4    12   -12</b>
 <br>But due to the internal friction that already exists in the system it will give out a rotation of 
+<br><b>  8x   -4x   12x  -12x</b> Where <b>x</b> is an number between one and one by two.
+<br><b>So on the thought that the movements of the bones will give out rotations which is a real value amplification of required signal , we can go ahead with building rest of the parts. That is if you are building a finger , we build this setup and we do the rest of the artsy stuff. That is the stuff which will make this piece of machine look like an actuall finger. We do this in such a way that we leave a small gap to acess the screw.
+<br>After doing all of these setup , we check the system once again. That is we give the input signal and see the retation and see how much it warries from the required rotations.
+<br>Soon after this we adjust the screw so that the acual rotations match the required rotation and hence calibrating the system.
+<br>The system once calibrated donot need to be calibrated again.
+## ADVANTAGES
+

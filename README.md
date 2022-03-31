@@ -24,7 +24,7 @@ The main axle moves bi directionally as the middle of the latch axil as the pivo
 <br> The latch tightener is a bit of an elastic system where a screw is inserted and when the screw is tightened the circumference of the tightener increases and it bukdges into the walls of the latch holder. This will increase the friction between the two and bring changes into the movement of the main axle.
 ![IMG_20220330_201910](https://user-images.githubusercontent.com/88607869/160865959-a1ed95ab-5e30-4ced-b1c6-9b47f65d644a.jpg)
 Lets say we have to move the bone in the below direction (note -ve values shows backward direction)
-<br><b>  4    -2    6    -6</b>
+<br><b>  4<sup>o</sup>    -2<sup>o</sup>    6<sup>o</sup>    -6<sup>o</sup></b>
 <br>Whose corresponding analogue signal will have the below maximum voltages.
 <br><b>  2    -1    3    -3</b>
 <br>But in our system we pass this signal through an amplifier which amplifies the previous signal into this new signal.

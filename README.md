@@ -1,13 +1,16 @@
 # IAAR
 Basic design of a new class of highly agile(target area:HUMANOID) robots that I plan to build.
 ## AIM
-To design  analog based robots which provides a huge advantage over conventional robots in terms of agility and easiness of calibration.
+Build/design analog signal baser robots with high agility and accuracy.
+To design special joints/nodes to rotate certain parts over an adil.
 ## CONCEPT
-My Idea is to combine ancient mechanics with modern precision to create a robot that would give us added advantage in terms of agility.
-The idea is simple : We replicate the actions of bone joints by using a combination of an electromagnet and a magnet which moves an axle and a resizable latch.
-This setup is highly raw and not accurate , which might be the reason that this technology is used today, But I managed to come up with a hack to address this issue.
-The trick is simple: we add a simple screw system in the latch tightener. Such that, the tightening and loosening of the screw changes the friction between the latch and the part that holds the latch.
-This will help us to calibrate the joints to the highest precision.
+The concept is to combine basic elctromagnet-magnet combo with modern 3D printing techniques to make nodes that can move with high accuracy.
+The idea is simple we use a magnet-electro magnet combo to move parts around an axis/resizable latch.
+The latch has two components :- rezisable part connected to the moving part and the latch holder connected to the base.
+The resizable latch will allow the part to move with respect to the base.
+The resizable latch can be resided using a screw. Such resizeing cause changes in friction between the latch and holder. Effecting the degree of rotation.
+We us this method of tightening/loosening the screw to calibrate the accuracy of movement. This technique allows us to eliminate unnecessary feedback systems .Allowing is to make the joints small and replecate even the smallest bones .
+In a further step we plan on making the robots inteligent such that they can do some random accuracy check visually and recalibrate itself by tightening /loosening the screws.
 ## FURTHER EXPLANATION WITH DIAGRAM
 ### TOP
 ![IMG_20220329_185705](https://user-images.githubusercontent.com/88607869/160638796-cc00ebdf-3183-4948-8494-226a0494a999.jpg)
